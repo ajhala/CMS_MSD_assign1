@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+<div class="jumbotron">
+  <h1 class="display-4">Acme Auto Client Management System</h1>
+  <p class="lead">Car Sales and Service Client Management System.</p>
+  <p><a class="btn btn-primary" href="{% url 'client_list' %}" role="button">View clients &raquo;</a></p>
+</div>
+{% endblock content %}
