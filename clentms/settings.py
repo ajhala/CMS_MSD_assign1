@@ -30,7 +30,7 @@ ALLOWED_HOSTS = ['*']
 
 EMAIL_HOST = 'smtp.gmail.com' # mail service smtp
 EMAIL_HOST_USER = 'abhaytest3900' # email id
-EMAIL_HOST_PASSWORD = 'ISqa3900!' #password
+EMAIL_HOST_PASSWORD = 'nzbqkdxxgjzoojsh' #password
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
